@@ -1,15 +1,15 @@
 
 # TvBox 配置源
 
-更新时间: 2022-08-07 22:29:05
+更新时间: 2022-08-08 00:57:02
 
 
 ## 配置
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
-|  izyw.json | 2022-08-07 18:09:50 |[地址](https://box.okeybox.top/tv/izyw.json) |
-|  frbi.json | 2022-08-07 18:02:59 |[地址](https://box.okeybox.top/tv/frbi.json) |
-|  4i70.json | 2022-08-07 16:55:50 |[地址](https://box.okeybox.top/tv/4i70.json) |
+|  q328.json | 2022-08-07 22:23:47 |[地址](https://box.okeybox.top/tv/q328.json) |
+|  3rqb.json | 2022-08-07 22:23:47 |[地址](https://box.okeybox.top/tv/3rqb.json) |
+|  7f1u.json | 2022-08-07 22:19:09 |[地址](https://box.okeybox.top/tv/7f1u.json) |
   
     
