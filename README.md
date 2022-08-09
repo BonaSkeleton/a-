@@ -1,15 +1,15 @@
 
 # TvBox 配置源
 
-更新时间: 2022-08-09 18:41:49
+更新时间: 2022-08-09 22:01:17
 
 
 ## 配置
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
-|  fj0p.json | 2022-08-09 15:57:39 |[地址](https://box.okeybox.top/tv/fj0p.json) |
-|  l39q.json | 2022-08-09 15:57:30 |[地址](https://box.okeybox.top/tv/l39q.json) |
-|  5vdu.json | 2022-08-09 14:28:51 |[地址](https://box.okeybox.top/tv/5vdu.json) |
+|  rv6p.json | 2022-08-09 17:20:56 |[地址](https://box.okeybox.top/tv/rv6p.json) |
+|  cal7.json | 2022-08-09 17:20:12 |[地址](https://box.okeybox.top/tv/cal7.json) |
+|  f1ge.json | 2022-08-09 17:18:41 |[地址](https://box.okeybox.top/tv/f1ge.json) |
   
     
