@@ -1,15 +1,15 @@
 
 # TvBox 配置源
 
-更新时间: 2022-08-13 14:12:00
+更新时间: 2022-08-13 16:58:39
 
 
 ## 配置
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
+|  i91j.json | 2022-08-13 13:49:14 |[地址](https://box.okeybox.top/tv/i91j.json) |
+|  kk37.json | 2022-08-13 12:56:39 |[地址](https://box.okeybox.top/tv/kk37.json) |
 |  hktl.json | 2022-08-13 09:41:34 |[地址](https://box.okeybox.top/tv/hktl.json) |
-|  buo6.json | 2022-08-13 08:18:47 |[地址](https://box.okeybox.top/tv/buo6.json) |
-|  rk52.json | 2022-08-13 08:18:47 |[地址](https://box.okeybox.top/tv/rk52.json) |
   
     
