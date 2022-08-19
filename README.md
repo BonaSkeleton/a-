@@ -1,6 +1,6 @@
 # TvBox 配置
 
-更新时间: 2022-08-20 02:13:27
+更新时间: 2022-08-20 05:09:31
 
 Telegram(https://t.me/tvplayerBox)
 
@@ -16,9 +16,9 @@ Telegram(https://t.me/tvplayerBox)
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
+|  buo6.json | 2022-08-20 05:08:37 |[地址](https://box.okeybox.top/tv/buo6.json) |
 |  hc81.json | 2022-08-20 01:15:43 |[地址](https://box.okeybox.top/tv/hc81.json) |
+|  huna.json | 2022-08-20 01:15:43 |[地址](https://box.okeybox.top/tv/huna.json) |
 |  57yz.json | 2022-08-19 20:59:51 |[地址](https://box.okeybox.top/tv/57yz.json) |
 |  sr9f.json | 2022-08-19 20:59:51 |[地址](https://box.okeybox.top/tv/sr9f.json) |
-|  8g1g.json | 2022-08-19 20:57:06 |[地址](https://box.okeybox.top/tv/8g1g.json) |
-|  u5ca.json | 2022-08-19 20:57:06 |[地址](https://box.okeybox.top/tv/u5ca.json) |
   
