@@ -4,6 +4,10 @@
 
 Telegram(https://t.me/tvplayerBox)
 
+## 配置
+
+{{config}}
+
 ## 一影视
 
 [下载地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/一影视.apk)
@@ -11,6 +15,4 @@ Telegram(https://t.me/tvplayerBox)
 基于TVBox修改，添加在线升级、添加内置源、内置线路
 
 
-## 配置
 
-{{config}}
