@@ -1,6 +1,6 @@
 # TvBox 配置
 
-更新时间: 2022-08-21 20:16:18
+更新时间: 2022-08-21 23:10:06
 
 ## 【推荐】 一影视（内置多条线路，在线切换）
 
@@ -13,11 +13,11 @@
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
+|  lb4c.json | 2022-08-21 23:09:14 |[地址](https://box.okeybox.top/tv/lb4c.json) |
+|  j2kk.json | 2022-08-21 22:34:48 |[地址](https://box.okeybox.top/tv/j2kk.json) |
+|  se1n.json | 2022-08-21 21:22:43 |[地址](https://box.okeybox.top/tv/se1n.json) |
+|  0yfh.json | 2022-08-21 20:22:37 |[地址](https://box.okeybox.top/tv/0yfh.json) |
 |  dps8.json | 2022-08-21 20:12:37 |[地址](https://box.okeybox.top/tv/dps8.json) |
-|  gu1p.json | 2022-08-21 18:31:48 |[地址](https://box.okeybox.top/tv/gu1p.json) |
-|  ditw.json | 2022-08-21 17:20:15 |[地址](https://box.okeybox.top/tv/ditw.json) |
-|  c04f.json | 2022-08-21 16:54:00 |[地址](https://box.okeybox.top/tv/c04f.json) |
-|  77n0.json | 2022-08-21 16:44:57 |[地址](https://box.okeybox.top/tv/77n0.json) |
   
 
 
