@@ -1,6 +1,6 @@
 # TvBox 配置
 
-更新时间: 2022-08-21 14:25:54
+更新时间: 2022-08-21 17:10:02
 
 Telegram(https://t.me/tvplayerBox)
 
@@ -9,11 +9,11 @@ Telegram(https://t.me/tvplayerBox)
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
-|  32co.json | 2022-08-21 14:19:43 |[地址](https://box.okeybox.top/tv/32co.json) |
-|  3b35.json | 2022-08-21 14:18:04 |[地址](https://box.okeybox.top/tv/3b35.json) |
-|  avt1.json | 2022-08-21 14:14:43 |[地址](https://box.okeybox.top/tv/avt1.json) |
-|  4a1l.json | 2022-08-21 14:00:03 |[地址](https://box.okeybox.top/tv/4a1l.json) |
-|  ufax.json | 2022-08-21 13:36:41 |[地址](https://box.okeybox.top/tv/ufax.json) |
+|  c04f.json | 2022-08-21 16:54:00 |[地址](https://box.okeybox.top/tv/c04f.json) |
+|  77n0.json | 2022-08-21 16:44:57 |[地址](https://box.okeybox.top/tv/77n0.json) |
+|  o48i.json | 2022-08-21 16:44:33 |[地址](https://box.okeybox.top/tv/o48i.json) |
+|  i533.json | 2022-08-21 15:55:00 |[地址](https://box.okeybox.top/tv/i533.json) |
+|  1tot.json | 2022-08-21 14:58:03 |[地址](https://box.okeybox.top/tv/1tot.json) |
   
 
 ## 一影视
