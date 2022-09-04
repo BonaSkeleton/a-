@@ -2,6 +2,8 @@
 
 更新时间: 2022-08-24 23:12:31
 
+【现有域名 9月10日起停止解析，即将切换新的站点，敬请期待】
+
 ## 【推荐】 一影视（内置多条线路，在线切换）
 
 [下载地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/apks/main/live/一影视.apk)
