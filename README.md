@@ -2,7 +2,7 @@
 
 所有数据均来自于网络，不保证可用性
 
-更新时间: 2022-09-16 20:22:08
+更新时间: 2022-09-16 23:12:11
 
 ## 【推荐】 一影视
 
@@ -15,10 +15,10 @@
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
+|  pyn.json | 2022-09-16 21:47:15 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json) |
 |  fj.json | 2022-09-16 14:53:06 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json) |
 |  ikbb.json | 2022-09-16 11:34:33 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json) |
 |  ptest.json | 2022-09-16 08:42:34 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json) |
-|  pyn.json | 2022-09-16 04:30:21 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json) |
 |  xymc.json | 2022-09-15 23:52:44 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json) |
 |  c1tq.json | 2022-09-15 00:00:26 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/c1tq.json) |
 |  cks2K01.txt | 2022-09-14 08:05:00 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/cks2K01.txt) |
