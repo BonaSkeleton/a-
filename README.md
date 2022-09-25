@@ -2,7 +2,7 @@
 
 所有数据均来自于网络，不保证可用性
 
-更新时间: 2022-09-25 09:00:54
+更新时间: 2022-09-25 12:25:09
 
 ## 【推荐】 一影视
 
@@ -15,12 +15,17 @@
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
+|  5vdu.json | 2022-09-25 10:25:43 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/5vdu.json) |
+|  p6w5.json | 2022-09-25 10:25:43 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/p6w5.json) |
+|  hp75.json | 2022-09-25 10:25:43 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/hp75.json) |
+|  dy4v.json | 2022-09-25 10:25:43 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/dy4v.json) |
+|  sky3.json | 2022-09-25 10:25:43 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/sky3.json) |
+|  fj.json | 2022-09-25 09:13:59 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json) |
 |  ptest.json | 2022-09-25 08:44:07 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json) |
 |  pyn.json | 2022-09-25 00:34:03 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json) |
 |  E8plus.json | 2022-09-24 11:03:05 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/E8plus.json) |
 |  xymc.json | 2022-09-23 16:42:55 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json) |
 |  ikbb.json | 2022-09-22 17:39:48 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json) |
-|  fj.json | 2022-09-20 10:29:16 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json) |
 |  eib3.json | 2022-09-19 10:53:04 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/eib3.json) |
 |  9y1u.json | 2022-09-19 08:50:04 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/9y1u.json) |
 |  c1tq.json | 2022-09-18 14:58:21 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/c1tq.json) |
@@ -50,11 +55,6 @@
 |  ciwe.json | 2022-08-25 10:27:01 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ciwe.json) |
 |  plunju.json | 2022-08-25 06:48:45 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/plunju.json) |
 |  fj-2.json | 2022-08-24 10:07:32 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj-2.json) |
-|  fj-1.json | 2022-08-24 10:07:13 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj-1.json) |
-|  yb6a.json | 2022-08-24 04:40:03 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/yb6a.json) |
-|  qsxc.json | 2022-08-22 20:50:38 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/qsxc.json) |
-|  p04m.json | 2022-08-22 20:06:27 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/p04m.json) |
-|  dp77.json | 2022-08-22 11:27:55 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/dp77.json) |
   
 
 
