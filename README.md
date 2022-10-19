@@ -2,7 +2,7 @@
 
 所有数据均来自于网络，不保证可用性
 
-更新时间: 2022-10-19 09:08:57
+更新时间: 2022-10-19 12:48:47
 
 ## 【推荐】 一影视
 
@@ -15,6 +15,7 @@
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
+|  kcel.json | 2022-10-19 12:02:33 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/kcel.json) |
 |  ptest.json | 2022-10-19 08:42:22 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json) |
 |  xymc.json | 2022-10-18 23:01:58 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json) |
 |  fzns.json | 2022-10-18 22:10:41 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fzns.json) |
@@ -54,7 +55,6 @@
 |  t4.json | 2022-08-30 11:44:06 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/t4.json) |
 |  uasr.json | 2022-08-28 08:17:24 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/uasr.json) |
 |  mt888.json | 2022-08-27 21:55:16 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/mt888.json) |
-|  0701_bak.json | 2022-08-26 15:47:59 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/0701_bak.json) |
   
 
 
