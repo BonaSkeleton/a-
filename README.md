@@ -2,7 +2,7 @@
 
 所有数据均来自于网络，不保证可用性
 
-更新时间: 2022-11-15 11:43:27
+更新时间: 2022-11-15 14:14:27
 
 ## 【推荐】 一影视
 
@@ -15,14 +15,14 @@
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
-|  kcel.json | 2022-11-15 11:26:05 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/kcel.json) |
+|  kcel.json | 2022-11-15 13:32:47 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/kcel.json) |
+|  eib3.json | 2022-11-15 13:16:53 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/eib3.json) |
 |  xymc.json | 2022-11-15 10:29:27 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json) |
 |  ptest.json | 2022-11-15 06:20:02 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json) |
 |  1pw8.json | 2022-11-14 21:52:12 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/1pw8.json) |
 |  ikbb.json | 2022-11-14 16:24:21 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json) |
 |  g6qm.json | 2022-11-13 05:23:13 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/g6qm.json) |
 |  7l7n.json | 2022-11-12 06:50:33 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/7l7n.json) |
-|  eib3.json | 2022-11-08 23:46:26 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/eib3.json) |
 |  fj.json | 2022-11-08 17:50:17 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json) |
 |  pyn.json | 2022-11-08 05:40:15 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json) |
 |  ns66.json | 2022-11-07 01:16:47 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ns66.json) |
