@@ -2,7 +2,7 @@
 
 所有数据均来自于网络，不保证可用性
 
-更新时间: 2022-11-30 11:21:48
+更新时间: 2022-11-30 14:17:20
 
 ## 【推荐】 一影视
 
@@ -15,9 +15,9 @@
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
+|  ikbb.json | 2022-11-30 12:38:57 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json) |
 |  pyn.json | 2022-11-30 09:54:19 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json) |
 |  ptest.json | 2022-11-30 09:53:03 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json) |
-|  ikbb.json | 2022-11-29 22:49:18 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json) |
 |  kcel.json | 2022-11-29 22:40:15 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/kcel.json) |
 |  eib3.json | 2022-11-29 18:36:01 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/eib3.json) |
 |  g6qm.json | 2022-11-29 07:39:16 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/g6qm.json) |
